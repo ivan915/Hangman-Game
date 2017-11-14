@@ -13,7 +13,7 @@ var teams = [
 	"indians",
 	"mets",
 	"giants",
-	"redSox",
+	"redsox",
 	"cardinals",
 	"rangers",
 	"yankees",
